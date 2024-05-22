@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "971430504064",
+    "project_id": "erp-system-eb009",
+    "storage_bucket": "erp-system-eb009.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971430504064:android:ea70adcedaad808b0be865",
+        "android_client_info": {
+          "package_name": "com.example.erpsystem"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjzGeYELW8Mli6YvSt-KwzaO3vtRak7Zw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
